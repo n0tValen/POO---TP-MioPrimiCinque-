@@ -1,8 +1,8 @@
-# POO- -TP-MioPrimiCinque-
+# POO-TP -MioPrimiCinque-
 
 ># Trabajo Pràctico Grupal Grupo 2º
 
-### Integrantes 
+## Integrantes 
 >- Fernandez Sanchez Blanca Victoria de los Milagros
 >- Lopez Camila Marisol 
 >- Alvarez Morales Ornella Sofia
