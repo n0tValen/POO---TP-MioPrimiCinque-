@@ -2,7 +2,6 @@ package tpSegundaEntrega;
 
 import java.util.ArrayList;
 import java.util.List;
-//import multimedia.Multimedia;
 
 public class Plataforma {
 	  
@@ -35,3 +34,4 @@ public class Plataforma {
 	}
 
 }
+

@@ -1,4 +1,4 @@
-package entrega2;
+package tpSegundaEntrega;
 
 import java.util.ArrayList;
 import java.util.List;

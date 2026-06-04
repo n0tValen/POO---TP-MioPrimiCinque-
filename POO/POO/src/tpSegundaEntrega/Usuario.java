@@ -60,8 +60,8 @@ public class Usuario {
             Registro r = registros.get(i);
 
             // compara fechas como String en estricto formato AAAA-MM-DD
-            if (r.fecha().compareTo(fecha) <= 0) {
-                resultado.add(r.multimedia());
+            if (r.getFecha().compareTo(fecha) <= 0) {
+                resultado.add(r.getMultimedia());
             }
         }
 
