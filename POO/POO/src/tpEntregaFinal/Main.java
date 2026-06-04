@@ -1,4 +1,4 @@
-package tpSegundaEntrega;
+package tpEntregaFinal;
 
 public class Main {
 
